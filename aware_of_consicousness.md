@@ -1,3 +1,5 @@
+#Aware of consicousness
+
 There is a lot of talk about doing any activity consciously. Some people get it while others wonder what it is about being conscious. After reading about the same from different sources, one day I realized that it is just about enhancing our capability to pay attention and do things with utmost awareness. I understand that still many people don’t really understand what it is. 
 
 
@@ -16,13 +18,14 @@ What is it that our body is constantly in a transaction with the universe?
 We all studied gravitational force in high school. Below is the formula that many of us memorized for exams
 
 
+![Gravitational force formula](https://github.com/shreeharinw/blog-posts/blob/main/gf.jpg)
 
 
 
 Now, how many of us can recollect the value of G? 
 
 
-The value of G is 6.67408 × 10-11 N m2 kg-2
+The value of G is 6.67408 × 10<sup>-11</sup> N m2 kg-2
 
 
 For example, suppose a boy who weighed 165 lb-f on a scale (74.8 N or kg-f) sat near a 110 lb-f (50 N) girl, what would be the gravitational attraction between them, assuming the separation from their centers was 19.7 inches (0.5 meters)?
