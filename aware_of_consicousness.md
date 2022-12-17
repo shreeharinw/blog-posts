@@ -1,31 +1,33 @@
-#Aware of consicousness
+# Aware of consicousness
 
 There is a lot of talk about doing any activity consciously. Some people get it while others wonder what it is about being conscious. After reading about the same from different sources, one day I realized that it is just about enhancing our capability to pay attention and do things with utmost awareness. I understand that still many people don’t really understand what it is. 
 
 
-How will we be aware of what's happening to us?
+### How will we be aware of what's happening to us?
 
 It is through our sensory organs. We can only see, smell, hear, feel & taste through our eyes, nose, ears, skin & tongue respectively. 
 
 
-Do we always synthesize everything that our sensory organs sense?
+### Do we always synthesize everything that our sensory organs sense?
 
 No, not really. Our sensory organs sense many things. We only synthesize a few things.
 
 
-What is it that our body is constantly in a transaction with the universe?
+### What is it that our body is constantly in a transaction with the universe?
 
 We all studied gravitational force in high school. Below is the formula that many of us memorized for exams
 
 
-![Gravitational force formula](https://github.com/shreeharinw/blog-posts/blob/main/gf.jpg)
+![Gravitational force formula](https://github.com/shreeharinw/blog-posts/blob/main/gf.jpg?raw=true)
 
 
 
 Now, how many of us can recollect the value of G? 
 
 
-The value of G is 6.67408 × 10<sup>-11</sup> N m2 kg-2
+The value of G is 
+
+### 6.67408 × 10<sup>-11</sup> N m2 kg-2
 
 
 For example, suppose a boy who weighed 165 lb-f on a scale (74.8 N or kg-f) sat near a 110 lb-f (50 N) girl, what would be the gravitational attraction between them, assuming the separation from their centers was 19.7 inches (0.5 meters)?
@@ -86,12 +88,12 @@ So, the gravitational force between a boy and a girl is so small that one cannot
 So, practically there is a gravitational force between every object in this universe. Not just gravitational force, there are other bunch of forces that act on every object. Let’s not get into all of it. The final objective is to experience every force which is acting on us. This is it!! about being conscious. 
 
 
-How do we start experiencing every force?
+### How do we start experiencing every force?
 
 Since ancient times, the fundamental way to get into this state is yoga. 
 
 
-So, what is yoga?
+### So, what is yoga?
 
 “Yoga,” people think of impossible physical postures. Yoga is not about bending and twisting your body or holding your breath. It is a mechanism and a technology to get you to that state of experience where you see reality just the way it is.
 
