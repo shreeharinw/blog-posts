@@ -1,4 +1,4 @@
-# Blog posts [![Awesome]]
+# Blog posts
 
 ### Table of Contents
 
