@@ -2,5 +2,5 @@
 
 ### Table of Contents
 
-- [Aware of consicousness](aware_of_consicoousness.md)
+- [Aware of consicousness](aware_of_consicousness.md)
  
