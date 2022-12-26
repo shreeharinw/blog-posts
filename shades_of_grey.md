@@ -1,4 +1,4 @@
-# Shdades of grey
+# Shades of grey
 I know, the title brings a smile to most of the readers. Unfortunately, a couple of movies around this name have actually created a different notion about this. If we recollect a couple of the most common questions we have answered in our childhood, what's your dream, and who is your role model?
 
 Pause, think for a moment, try to recollect your answers from your childhood. Most importantly, for many of us, the answers would have changed frequently (maybe every 2 years). So, by the time you are 18. You would have definitely had a bunch of role models. Role models are people who we are looking up to. So, we back them up on everything. After a point, I realised in my life that the concept of a role model itself is so flawed that we are backing up someone on something which we might not agree upon, just for the reason that he is good at something else.
